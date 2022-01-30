@@ -1,0 +1,169 @@
+#header{
+    height: 70px;
+      width: 100%;
+}
+ul{
+    float: right;
+}
+li{
+    text-decoration: none;
+    display: inline;
+    padding-right: 20px;
+}
+#banner{
+    
+    height: 400px;
+    width: 100%;
+}
+#title{
+    margin: 10px;
+    text-align: center;
+    font-family: MV Boli;
+    font-size: 25px;
+}
+#banner img{
+    width: 100%;
+}
+#box1{
+   
+    height: 200px;
+    width: 25%;
+    float: left;
+    margin-left: 50px;
+    margin-right: 5%;
+}
+#box1 p{
+    font-family: MV Boli;
+    text-align: center;
+}
+#para{
+    border: 1px solid black;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+#authorname{
+    margin-left: 100px;
+    
+}
+#box1 img{
+        width: 100%;
+}
+#box2{
+    width: 33%;
+    float: left;   
+}
+#box2 p{
+    font-size: 17px;
+    font-family:MV Boli;
+    text-align: center;
+}
+#box3{
+    width: 20%;
+    float: right;
+    margin-right: 100px;
+}
+#but{
+    clear: both;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+#but1{
+    text-decoration: none;
+    border: 1px solid red;
+    color: red;
+    border-radius: 30px;
+    padding: 15px 30px 15px 30px;
+    
+}
+
+#intro{
+    margin-left: 8%;
+}
+#intro img{
+    width: 90%;
+}
+#coll{
+    /* margin-top: 80px; */
+    width: 100%;
+    float: left;
+    
+}
+
+#final{
+    padding-top: 30px;
+    width: 96%;
+    height:1100px;
+    margin: 0 auto;
+}
+#box4{
+    height: 900px;
+    width: 70%;
+    margin-right: 1%;
+    float: left;
+}
+#snap img{
+    height: 200px;
+    width: 200px; 
+    float: left;
+}
+#heading{
+    font-family: MV Boli;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+}
+#paragraph{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#par{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#box5{
+    height: 1080px;
+    width: 28%;
+    float: right;
+    border: 1px solid black;
+}
+#button2{
+    border: 1px solid red;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+}
+#button2 p{
+    text-align: center;
+    color: red;
+}
+#box5 img{
+    margin-left: 50px;
+}
+#icons{
+    padding-top: 40px;
+}
+#icon1{
+    color: black;
+    font-size: 30px;
+    margin-right: 40px;
+    margin-left: 30px;
+}
+#icon2{
+    color: black;
+    font-size: 30px;  
+    margin-right: 60px; 
+}
+#icon3{
+    color: black;
+    font-size: 30px;
+    margin-right: 60px;
+}
+#icon4{
+    color: black;
+    font-size: 30px;
+}
